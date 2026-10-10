@@ -1,0 +1,6 @@
+<svg width="390" height="413" viewBox="0 0 390 413" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="sky" x1="0" y1="300" x2="390" y2="413" gradientUnits="userSpaceOnUse"><stop stop-color="#D5EEFF" stop-opacity=".7"/><stop offset="1" stop-color="#B4DAF7" stop-opacity=".9"/></linearGradient></defs>
+<path id="lower_sky_blue" d="M0 314 L390 382 L390 413 L0 413Z" fill="url(#sky)"/>
+<path id="left_geometry" d="M0 267 L128 318 L0 359Z" fill="#AEDAF6" fill-opacity=".33"/>
+<path id="lower_light_geometry" d="M0 361 L236 347 L390 413 L0 413Z" fill="#EAF7FF" fill-opacity=".28"/>
+</svg>

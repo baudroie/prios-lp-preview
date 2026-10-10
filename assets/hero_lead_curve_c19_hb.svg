@@ -1,0 +1,5 @@
+<svg width="190" height="105" viewBox="0 0 190 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Hero lead decoration — existing M01 paths, C19-HB placement</title>
+  <path id="lead_left_curve" d="M1 62 Q9 34 29 18" transform="translate(14.48 41.5) scale(.9 .75)" stroke="#73B8FF" stroke-width="1" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+  <path id="lead_under_curve" d="M28 39 Q94 37 159 7" transform="translate(15 54.88) scale(1.08)" stroke="#73B8FF" stroke-width="1" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+</svg>
